@@ -38,10 +38,8 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Sacramento building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              Written by <strong>{author}</strong> who builds websites in his free time when he is not being a father to his beautiful daughter, husband to his loving wife, fly fishing in Tahoe, and working at <a target="_blank" href={`https://uptownstudios.net/`}>Uptown Studios</a>. If you would like to get to know him better <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
+                you should follow him on Twitter now!
               </a>
             </p>
           </div>
