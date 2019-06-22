@@ -1,7 +1,7 @@
 ---
 title: What I Learned Using Homebrew Package Manager
 date: "2019-06-21"
-description: Learn How to Download Homebrew Onto Your Mac & Use It To Quickly Install/Uninstall Developer Tools. Grab Your Mac, Sit Down & Get Ready to Follow Along. Start Learning Now! (5 Min Read) 
+description: Learn How to Download Homebrew Onto Your Mac & Use It To Quickly Install/Uninstall Developer Tools From Your Terminal. Grab Your Mac, Sit Down & Get Ready to Follow Along. Start Learning Now! (5 Min Read) 
 ---
 
 Yesterday I used [Homebrew](https://brew.sh/) "the missing package manager" for the first time at work. I have used it before, but didn't know what it was or why I needed it. My brother-in-law just downloaded it for me when I started to learn how to code and said it was really useful. 
