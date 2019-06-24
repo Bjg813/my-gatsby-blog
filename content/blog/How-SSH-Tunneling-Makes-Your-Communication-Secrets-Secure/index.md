@@ -20,7 +20,7 @@ This inspired me to do my own research over the weekend and blog about it on my 
 
 If you are interested in learning more about how to use SSH in your command line to back-up Wordpress files and to change the permissions of files, then please keep reading. 
 
-## How To Securely Back-Up Wordpress Files In Command Line With SSH
+## Securely Back-Up Wordpress Files In Command Line With SSH
 
 If you are new to Wordpress like me and you need a way to quickly back-up website files so you can make changes without worrying about losing your client's website or your job, then SSH protocol is the way to go.
 
