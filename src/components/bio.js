@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who builds websites in his free time when he is not being a father to his growing daughter, husband to his beautiful wife, fly fishing in Tahoe National Park, and working at <a target="_blank" href={`https://uptownstudios.net/`}>Uptown Studios</a>. If you would like to get to know him better <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
+              Written by <strong>{author}</strong> who builds websites in his free time when he is not being a father to his growing daughter, husband to his beautiful wife, fly fishing in Tahoe National Forest, and working at <a target="_blank" href={`https://uptownstudios.net/`}>Uptown Studios</a>. If you would like to get to know him better <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
                 you should follow him on Twitter.
               </a> Follow Brennan's web development learning experience today.
             </p>
