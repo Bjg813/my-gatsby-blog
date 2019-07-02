@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Sacramento Web Developer`,
     author: `Brennan`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Follow the blog of a budding web developer in Sacramento, California.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `realSacWebDev`,
