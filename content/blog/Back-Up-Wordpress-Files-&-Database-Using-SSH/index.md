@@ -1,5 +1,5 @@
 ---
-title: How Does SSH Protocol Make Your Digital Secrets Secure?
+title: Back-Up Your Wordpress Files & Database Using SSH
 date: "2019-06-23"
 description: Learn How to Make Secure Remote Connections From Your Command Line to Any Unsecure Network Service, Utilizing One of the Oldest & Most Reliable Protocols Around. Welcome To SSH, aka Secure Socket Shell. Start Connecting Now! (10 Min Read)
 ---
@@ -70,7 +70,7 @@ He showed me how to do this by changing directories into the **httpdocs** then t
 
 This allowed me to successfully install and configure the W3 Total Cache plugin.
 
-Once I was done I changed the permissions back to read only and I accidentally typed **chmod 444 httpdocs** I immedately got an error and I thought I broke the Wordpress site. I notified our web developer and he laughed. He told me to tpye **chmod 775 httpdocs** and said "you couldn't have screwed it up that bad yet" which I thought was funny and made me understand permissions better and inspired me to write this blog.
+Once I was done I changed the permissions back to read only and I accidentally typed **chmod 444 httpdocs** I immedately got an error and I thought I broke the Wordpress site. I notified our web developer and he laughed. He told me to tpye **chmod 755 httpdocs** and said "you couldn't have screwed it up that bad yet" which I thought was funny and made me understand permissions better and inspired me to write this blog.
 
 Anyways, the site was returned its default permissions and was updated successfully with its new caching plugin.  
 
