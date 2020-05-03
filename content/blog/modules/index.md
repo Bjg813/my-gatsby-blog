@@ -49,7 +49,7 @@ Easy as that:
 ## Import Your Module
 Modules can be used in other JavaScript files by using the `import` statement. 
 
-An important concept to realize is if you are importing multiple exports, you can deconstruct the exports you want and leave the rest, which is great for speed and size! If you are just importing a default export then you can't deconstruct it, obviously, geez.
+An important concept to realize is if you are importing multiple exports, you can destructure the exports you want and leave the rest, which is great for speed and size! If you are just importing a default export then you can't desctructure it, obviously, geez.
 
 We list the import at the top of the file and type:
 
