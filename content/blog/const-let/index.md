@@ -7,16 +7,16 @@ description: Learn When to Use Const Over When to Use Let Variables In ES6 JavaS
 If you are like me and found that when ES6 came out, you were scratching your head when you saw there were two new variable options, const and let. Since JavaScript is the first languauge I learned, I didn't know there were any other variables bindings out there except for var. If you had the same experience or are currently having this experience right now, please read on and learn the difference between const and let variables.
 
 ## What Is A Const Variable?
-A const variable stands for "constant" meaning it cant change. Const variables were created because before ES6, we could change variables, and at anytime with both global and lexical scoping. This invited a lot of uninteded bugs in people's programs because people would create global variables and would accidentally change the variable later on down the road. Either because they forgot they already declared that variable name or because someone else working on the same project didn't know that global name existed. This was an issue for a long time.
+A const variable stands for "constant" meaning it cant change. Const variables are part of the ES6 spec which was rolled out in 2016. The reason we have const variables now is so we have a way to make variables immutable (we can't change them). This comes in handy when we are working with global variables or if we don't want a variable to change. The following example shows how a global variable is changed using var:
 
 ![Using The Var Variable Is Mutated](./mutated-var.png)
 
-Well with const we can declare a variable as constant so that variable can never be changed, which is great!
+In the next example we use a const variable instead of var, and the console throws a TypeError when we try to change it.
 
 ![Using The Const Variable Makes It Immutable](./using-const.png)
 
 ## What Is A Let Variable?
-When I first saw a let variable I figured it replaced var and we never had to use it ever again. Now I realize that var and let are different, and var still has its place in JavaScript. With the creation of let, we can have more control over [lexical scoping](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures), which is great when we want to create closures, but can cause a lot of bugs.
+When I first saw a let variable I figured it replaced var and we never had to use it ever again. Now I realize that var and let are different, and var still has its place in JavaScript. With the creation of let, we can have more control over [lexical scoping](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures), which is great when we want to create closures, but not so great because it can cause bugs in our code.
 
 Before let, if a variable was created inside of a conditional if/else statement, it could permanently change a global variable with the same name.
 
