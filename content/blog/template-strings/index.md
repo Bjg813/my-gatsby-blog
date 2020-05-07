@@ -3,7 +3,6 @@ title: What Are Template Strings In ES6 JavaScript?
 date: "2020-05-05"
 description: Template Strings Gives Us The Ability To Concatenate Strings To Variables, Make Email Templates, Create DOM Trees, And Much More. See Now!
 ---
-
 If you have seen template string backticks(`), dollar signs($), and curly brakets({}) in JavaScript ES6 code, but have no idea why they are there, you are in luck because that is what this blog post is about. Keep reading to learn more!
 
 ## Old Way Of Concatenating Strings (+)
