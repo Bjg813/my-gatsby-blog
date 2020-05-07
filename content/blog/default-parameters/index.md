@@ -19,7 +19,7 @@ In addition, when we called the multiply function on line 8, we declared the sec
 ## Default Parameters Can Be Objects Too
 Default parameters can be objects as well. If you create an object you can initialize your object inside of a default parameter in your function. See below we created the "fish" object and listed out its properties. Then we created the "findFriend" function and bound the parameter "f" to the "fish" object, this has now given us access to the properties located in the object. 
 
-We invoked the "findFriend" function and used dot notation inside of a template string to ask "Have you seen my friend Nemo?". We could access the rest of the properties in the object by just using dot notation to call the parameter followed by the property key name.
+We invoked the "findFriend" function and used dot notation inside of a template string to ask 'Have you seen my friend Nemo?' We could access the rest of the properties in the object by just using dot notation to call the parameter followed by the property key name.
 
 ![Default Parameters Used In Conjunction With An Object](./object-default-parameters.png)
 
