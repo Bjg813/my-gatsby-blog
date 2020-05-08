@@ -1,7 +1,7 @@
 ---
 title: What Is An Arrow Function In JavaScript?
 date: "2020-05-07"
-description: Quickly See How Arrow Function Expressions Have Changed How We Write A Function In JavaScript. Arrow Functions Don't Act The Same As Function Expressions Or Function Declarations. See How They Are Different Now!
+description: Learn How To Code With ES6 Arrow Function Expressions & See Some Of It's Caveats. Learn Now!
 ---
 Arrow function expressions are a JavaScript ES6 feature that was released in 2016. Arrow functions can create functions without using the function keyword and doesn't have to use the return keyword in most cases.
 
@@ -11,7 +11,7 @@ For traditional function expressions we bind it to a variable using var, then ma
 ![Traditional Function Expression Using A CapitalizeString To Capitalize A String](./function-expression.png)
 
 ## Arrow Function Expression
-For arrow function expressions we can take out a lot of the verbose syntax used to create a simple function expression. In the example below we bound the capitalizeStringArrow function to a const variable and totally took out the function keyword. Then we made it equal to a single parameter and took out the paranthesis because we don't need them if a single parameter is declared. We used the fat arrow (=>) and took out the curly braces and pointed directly towards the expression used to capitalize the first letter of a string. In addition, we took out the return keyword because we have the function fat arrow pointing directly to the expression, so this tells the JavaScript engine we want to return this without writing out the return keyword.
+For [arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) we can take out a lot of the verbose syntax used to create a simple function expression. In the example below we bound the capitalizeStringArrow function to a const variable and totally took out the function keyword. Then we made it equal to a single parameter and took out the paranthesis because we don't need them if a single parameter is declared. We used the fat arrow (=>) and took out the curly braces and pointed directly towards the expression used to capitalize the first letter of a string. In addition, we took out the return keyword because we have the function fat arrow pointing directly to the expression, so this tells the JavaScript engine we want to return this without writing out the return keyword.
 
 ![Arrow Function Expression Using A CapitalizeStringArrow To Capitalize A String With A Fat Arrow](./arrow-function-expression.png)
 
