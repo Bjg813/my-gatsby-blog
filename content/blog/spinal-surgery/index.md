@@ -8,7 +8,7 @@ This time last week I was working at home on a Saturday trying to finish my end 
 
 When my daughter was born, my boss/not boss [Tina Reynolds](https://www.linkedin.com/in/uptownstudios/) hired me knowing my wife was due one month after my first day of employment. She knew I would need to take some time off immedately after starting work, yet she hired me anyway. She is such a wonderful person.
 
-When my baby was born, my wife and I found out our new baby daughter had [Spina Bifida](https://www.cdc.gov/ncbddd/spinabifida/facts.html). Indeed, this was devasting for the both of us and my fantastic team at Uptown Studios was there to support me every step of the way. 
+When my baby was born, my wife and I found out our baby daughter had [Spina Bifida](https://www.cdc.gov/ncbddd/spinabifida/facts.html). Indeed, this was devasting for the both of us and my fantastic team at Uptown Studios was there to support me every step of the way. 
 
 ## 1. Work-Life Balance Is A Real Thing 
 
@@ -78,7 +78,3 @@ When we were there it felt like forever, but once we got home, my wife said "fee
 Our daughter is now home at 5 months old. After her spinal surgery she can now wiggle her toes and move her ankles, something she hasn't been able to do since she was born. 
 
 She is now moving her feet in front of her and trying to grab these unknown appendiges like a newborn chick flapping its wings for the first time.
-
-Her successful spinal surgery has inspired me to keep pursuing my passion of web development and has given me faith to write this blog. I will keep writing about my learnings from my family, work, and studies. Hope you will enjoy my ride, because so far I have!
-
-_This blog post was inspired by my strong 5 month old girl Theia and her blog [HelloTheia](https://hellotheia.com/) my beautiful wife updates at every mile stone._
