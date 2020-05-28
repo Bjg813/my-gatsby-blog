@@ -6,7 +6,7 @@ description: Learn How To Code With ES6 Arrow Function Expressions & See Some Of
 Arrow function expressions are a JavaScript ES6 feature that was released in 2016. Arrow functions can create functions without using the function keyword and doesn't have to use the return keyword in most cases.
 
 ## Traditional Function Expression
-For traditional function expressions we bind it to a variable using var, then make it equal to an anonymous function and use the return keyword to trigger an expression.
+For traditional function expressions we bind it to a variable using `var`, then make it equal to an anonymous function and use the return keyword to trigger an expression.
 
 ![Traditional Function Expression Using A CapitalizeString To Capitalize A String](./function-expression.png)
 
